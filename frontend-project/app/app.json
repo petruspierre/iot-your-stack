@@ -1,0 +1,12 @@
+{
+  "name": "espcontrol",
+  "displayName": "espcontrol",
+  "expo": {
+    "name": "espcontrol",
+    "slug": "espcontrol",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
