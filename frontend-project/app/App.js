@@ -27,7 +27,7 @@ export default function App() {
   useEffect(() => {
     init({
       size: 10000,
-      storageBackend: AsyncStorage,
+      storageBackend: {},
       defaultExpires: 1000 * 3600 * 24,
       enableCache: true,
       reconnect: true,
